@@ -1,0 +1,7 @@
+name: b2c-pulumi-identity
+runtime: nodejs
+description: B2C role impl with next and pulumi
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: azure-typescript
